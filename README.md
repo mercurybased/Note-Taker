@@ -30,7 +30,7 @@ After storing note
 
 
 ## Credits
-Veronica Griggs ![github](https://github.com/DevManCryBB)
+Veronica Griggs https://github.com/DevManCryBB
 
 
 ## License

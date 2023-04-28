@@ -17,7 +17,7 @@ This is an easy to use note taker to write and store notes that you can easily l
 
 
 ## Usage
-Simply go to the deployed link at !(https://notetaker7495.herokuapp.com/)
+Simply go to the deployed link at https://notetaker7495.herokuapp.com/
 
 ## Screenshots
 when entering the deployed page
